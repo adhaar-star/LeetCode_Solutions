@@ -1,0 +1,4 @@
+language: cpp
+os: linux
+script:
+    - g++ course_schedule.cpp
